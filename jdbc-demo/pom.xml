@@ -5,7 +5,7 @@
     <groupId>com.damon</groupId>
     <artifactId>jdbc-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbc-demo</name>
+        <name>jdbc-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
